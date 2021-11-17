@@ -6,4 +6,5 @@ In order to build st you need the Xlib header files.
 ### Patches applied(In Order)
 
 Bold is not Bright<br>
-Alpha Focus Highlight
+Alpha Focus Highlight<br>
+Selection Colors
